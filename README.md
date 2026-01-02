@@ -17,5 +17,5 @@ though that not the goal... the repository is solely for documenting my journey 
 you can use this repository in any way you want... but if you like the work then don't forget to give a star to this repository.
 
 And yes ofcourse as i am fan of open source, you can fork this repository, edit it and submit a pr to this repository.
-I willn't mind looking into at your solution... and accept it..... (as in merge your pr)
+I willn't mind looking into your solution... and accept it..... (as in merge your pr)
 
