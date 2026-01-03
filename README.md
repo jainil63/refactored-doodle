@@ -4,6 +4,10 @@ this repository will remain as an unmainted, completely cluttered repository..
 but I will try, my best to keep things organized (enough so that one can find things around) 
 though that not the goal... the repository is solely for documenting my journey in DSA..
 
+## Manifesto
+
+you can checkout the [manifesto](manifesto.md) or get more infomation, about what and why this is.
+
 ## Rules & Structure (Abstract)
 
 - every question will have its own dedicated `.py` file.
