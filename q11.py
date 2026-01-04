@@ -18,7 +18,7 @@ if yes then print good. else, comfort them by something good..
 
 ## Edge Cases
 
-...
+We are assume user is smart enough to enter either yes or no...
 
 
 
